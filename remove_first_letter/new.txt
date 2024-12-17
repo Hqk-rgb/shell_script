@@ -1,0 +1,12 @@
+hangsan 1977 male computer 83
+isi 1989 male math 99
+anglijiang 1990 female chinese 78
+uliang 1977 male economic 89
+uxin 1986 female english 99
+angxuebing 1978 male math 89
+ichang 1989 male math 99
+anglijiang 1990 female chinese 78
+hangsansan 1977 male computer 83
+angxuebing 1978 male math 89
+isibao 1989 male math 99
+iaobao 1990 female chinese 78
